@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Full Stalk - Your Daily Tech Feed",
+    "base_url": "/",
+    "favicon": "/images/logo.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo.png",
+    "logo_width": "120",
+    "logo_height": "39",
+    "logo_text": "Full Stalk"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "Full Stalk - Your Daily Tech Feed ",
+    "copyright": "A Property of [LeadcellB2B](https://leadcellb2b.com/)"
+  },
+  "metadata": {
+    "meta_author": "Full Stalk",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Full Stalk Blog - Your Daily Tech Feed, Tech Trends and Development Walkthroughs"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Full Stalk Blog - Your Daily Tech Feed, Tech Trends and Development Walkthroughs"
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Be a part of our subscribers and get our best blogs delivered each week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
